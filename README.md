@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/ninhtqse/ninhtqse/main/header_.png" alt="Header Image"/>
-<h1>Web Developer (Javascript, HTML/CSS & Java)</h1>
+<h1>Web Developer (Javascript, HTML/CSS)</h1>
 
 ### About me
 👋 Hello there! I'm qcode95, a developer with a passion for creating great web experiences.
 
-Focusing on JavaScript, HTML/CSS, and Java, I'm diving into the world of web development, looking to make waves. From designing eye-catching user interfaces to ensuring seamless interactions for web applications.
+Focusing on JavaScript and HTML/CSS, I'm diving into the world of web development, looking to make waves. From designing eye-catching user interfaces to ensuring seamless interactions for web applications.
 
 I always aim to create an engaging and eye-catching web experience for users even though I may be new to the field.
 
