@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/ninhtqse/ninhtqse/main/header_.png" alt="Header Image"/>
-<h1>Web Developer (Javascript, HTML/CSS)</h1>
+<h1>Web Developer (Javascript, HTML/CSS and Java)</h1>
 
 ### About me
 👋 Hello there! I'm qcode95, a developer with a passion for creating great web experiences.
