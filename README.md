@@ -12,20 +12,20 @@
 
 <div align="center">
 
-🌍 I'm based in Vietnamese
+🌍 I'm based in Vietnamese
 
-🔭 I’m currently studying at FPT University
+🔭 I'm currently studying at FPT University
 
  </div>
 
 <div align="center"> 
-  <a href="mailto:quynx9503.dev@gmail.com" style="text-decoration:none !important;">
+  <a href="mailto:quynx9503.dev@gmail.com" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/quynx/" rel="noopener" target="_blank" style="text-decoration:none !important;">
+  <a href="https://www.linkedin.com/in/quynx/" rel="noopener" target="_blank" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/qcode95" rel="noopener" target="_blank" style="text-decoration:none !important;">
+  <a href="https://github.com/qcode95" rel="noopener" target="_blank" style="text-decoration: none !important;">
      <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,vue,java,spring,mysql,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,angular,vue,java,spring,cs,dotnet,mysql,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,windows,apple" /><br>
     <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,idea" />
 </div>
