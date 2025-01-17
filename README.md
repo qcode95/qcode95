@@ -36,11 +36,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,angular,vue,react" /><br>
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,mysql,sqlite,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,windows,apple" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,idea" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,ts,angular,react" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,mysql,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=git,docker,windows,apple" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,vscode,idea,rider" />
 </div>
   <br/><br/>
 <hr/>
@@ -72,4 +72,4 @@
 Credits: <a href="https://github.com/qcode95/">qcode95</a>
 <br/>
 <br/>
-Last Edited on: 02/12/2024
+Last Edited on: 01/17/2025
