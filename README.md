@@ -57,7 +57,7 @@
 <br>
 <div align=center>
   <a href="#" title="qcode95's Github Stats">
-    <img align="right" width="434" src="https://qcode-95-github-stats.vercel.app/api?username=qcode95&show_icons=true&theme=react&border_color=61dafb&hide_border=true" 
+    <img align="right" width="434" src="https://qcode-95-github-stats.vercel.app/api?username=qcode95&hide=stars&show_icons=true&theme=react&border_color=61dafb&hide_border=true" 
     />
   </a>
   <a href="#" title="qcode95's Top Langs">
